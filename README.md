@@ -2,7 +2,7 @@
 final_project-chongxiaoxuan created by GitHub Classroom
 
 # *Project 17* 
-# 將使用者輸入的自然數(N)以 N * N 的方式由數字 1 從最中間順時鐘往外依序寫下
+# 將使用者輸入的自然數 ( N ) 以 N * N 的方式由數字 1 從最中間順時鐘往外依序寫下
 
 例子：
      以下是一個5x5的矩陣：
