@@ -18,14 +18,14 @@ final_project-chongxiaoxuan created by GitHub Classroom
 ```
 在我的程式裡，一共有 4 個 .m 檔，但是有一個總的檔案是拿來執行剩下所有的程式：
 
-總檔案： finalProject17.m
+總檔案： mainFunction.m
 
 各程式的檔案：
      1. clockwiseMatrix.m
      2. sumDiagonal.m
      3. imagePrime.m
 
-在 finalProject17.m 裡會有兩個input arguments，分別是 choice 和 N
+在 mainFunction.m 裡會有兩個 input arguments，分別是 choice 和 N
 choice是讓你選擇想要執行哪一個程式，而 N 則是矩陣的大小
 
   choice         程式
@@ -34,7 +34,7 @@ choice是讓你選擇想要執行哪一個程式，而 N 則是矩陣的大小
     3            imagePrime.m
 
 使用者只需輸入
->> finalProject17(choice,N)
+>> mainFunction(choice,N)
 ** 其中，在 choice 裡輸入想要執行程式的號碼(1 / 2 / 3)，N 則是 [ 1 , ∞ ) **
 
 Remark：
