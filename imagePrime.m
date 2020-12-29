@@ -1,7 +1,7 @@
 function imagePrime()
     % Output : graph of matrix A
     % example :
-	% imagePrime()
+    % imagePrime()
 
     N=200; % 指定 N = 200
     
